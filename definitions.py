@@ -1,5 +1,5 @@
 # definitions.py
-#  Definitions of constants for tetris game
+#  Definitions of constants for pygame_template.py
 #  Author: Kyle Pollina
 
 # Built in constants
@@ -36,11 +36,3 @@ NORMSPEED   = 20
 SLOWSPEED   = 30
 
 
-# Define block types
-SQUARE = 0
-LINE   = 1
-TBLOCK = 2
-ZBLOCK = 3
-SBLOCK = 4
-JBLOCK = 5
-LBLOCK = 6

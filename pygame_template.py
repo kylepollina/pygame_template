@@ -1,5 +1,5 @@
-# tetris.py
-#  Classic tetris game written with Pythons Pygame Library
+# pygame_template.py
+#  2D pygame game template
 #  Author: Kyle Pollina
 
 
